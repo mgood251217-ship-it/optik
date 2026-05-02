@@ -1,0 +1,9 @@
+{
+  "appId": "com.optik.app",
+  "appName": "Optik App",
+  "webDir": "www",
+  "server": {
+    "url": "https://optik.mgood.my.id",
+    "cleartext": true
+  }
+}
